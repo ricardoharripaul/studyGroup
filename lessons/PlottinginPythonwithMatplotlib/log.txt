@@ -1,0 +1,46 @@
+changeset:   8:8027890362dd
+tag:         tip
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Wed Nov 26 12:07:33 2014 -0500
+summary:     Added description of data and some context
+
+changeset:   7:b8b8ff5c8023
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Wed Nov 26 11:46:57 2014 -0500
+summary:     tweaked the font sizes and added units
+
+changeset:   6:ed7e9ecc94b2
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Wed Nov 26 11:38:50 2014 -0500
+summary:     Spent a lot of time tinkering with the plot to get it visually appeaking and draw the line of best fit
+
+changeset:   5:cae0f8c4e119
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Wed Nov 26 09:43:51 2014 -0500
+summary:     Constructing plot with data and changed tick marks for a larger font
+
+changeset:   4:bb36a09fd848
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Tue Nov 25 23:32:31 2014 -0500
+summary:     Sucessfully read in file and plsit by comma
+
+changeset:   3:fb4338094d4b
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Mon Nov 24 15:53:01 2014 -0500
+summary:     Movie Writer to mpeg is working but no points
+
+changeset:   2:e0f823082a3b
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Mon Nov 24 14:50:13 2014 -0500
+summary:     Updated script so it can extract information from the netcdf file for position and time
+
+changeset:   1:a718fe38e056
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Mon Nov 24 11:28:25 2014 -0500
+summary:     modified code to allow for my movie player to solve this error
+
+changeset:   0:5990a7c27447
+user:        RICARDO HARRIPAUL <ricardo.harripaul@gmail.com>
+date:        Mon Nov 24 09:39:48 2014 -0500
+summary:     This is the initial set up with modules load an the basic structure of the script outlined for animation - some difficulties in working with the data to make the movie
+
