@@ -6,7 +6,7 @@ Madeleine Bonsma (@mbonsma on GitHub),
 Lindsay Coome (@lcoome on GitHub),
 Lina Tran (@linamnt on Github),
 Sarah Meister (@thesarahmeister on GitHub),
-NAME_OF_5TH_STUDENT (GITHUB_ID on GitHub) and
+Ricardo Harripaul (@ricardoharripaul on GitHub) and
 NAME_OF_6TH_STUDENT (GITHUB_ID on GitHub).
 
 Madeleine Bonsma is the organizer of a scientific progamming peer learning group at the University of Toronto (University of Toronto Scientific Coders - uoftcoders.github.io) and is on the waitlist for instructor training. Lindsay Coome is a session leader in the University of Toronto Scientific Coders group and is on the waitlist for instructor training. Lina Tran is an organizer and member of the University of Toronto Scientific Coders group. Sarah Meister is a session leader in the Scientific Coders group. 
